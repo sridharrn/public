@@ -1,30 +1,16 @@
 [
  {
-  "appIcon": "https://lh3.googleusercontent.com/vvp6Ev33xPerWBBOtIRyAHl7k5c4wQ72hGwG3EU4JC-BTjfvb5DSJDeMABaRg0fy_KI",
-  "appName": "Sleepy - Phone Addiction Controller",
-  "appDescription": "The smartest app to reduce phone addiction",
-  "url": "https://play.google.com/store/apps/details?id=p32929.lazyphone",
-  "type": "Banner"
+  "appIcon": "https://lh3.googleusercontent.com/7p0QQlN7vmjaJhz2r-seNe253jJxmH_dpzU_OWMy9EPyVqot9yyDvecF-9zF8B2k9MU",
+  "appName": "Just ಕನ್ನಡ Keyboard",
+  "appDescription": "ಸಿರಿಗನ್ನಡಂ ಗೆಲ್ಗೆ, ಸಿರಿಗನ್ನಡಂ ಬಾಳ್ಗೆ, ಸಿರಿಗನ್ನಡಂ ಮೊಬೈಲ್ಗೆ!",
+  "url": "https://play.google.com/store/apps/details?id=com.sriandroid.justkannada",
+  "type": "app.banner.text"
  },
  {
-  "appIcon": "https://lh3.googleusercontent.com/EPW9ERgwRYA47SsgLCiA0vF7irRoPIhS0tA3JdIrgQ5-xmaqVBJKt69-jLW1JAtgD6w",
-  "appName": "Best CGPA Calculator",
-  "appDescription": "Best CGPA Calculator app for Android",
-  "url": "https://play.google.com/store/apps/details?id=p32929.cgpa_calculator2",
-  "type": "Banner"
- },
- {
-  "appIcon": "https://lh3.googleusercontent.com/ILrto9KguXlr-clbhYKUonpnHszgNp_N5Qvc8_u9QaM71oaqNKcYql2sV3sqZ7nqzsc",
-  "appName": "Desplash",
-  "appDescription": "Beautiful automatic wallpapers from Unsplash",
-  "url": "https://play.google.com/store/apps/details?id=p32929.desplash",
-  "type": "Banner"
- },
- {
-  "appIcon": "https://lh3.googleusercontent.com/ni-lk3b2nTMZyC7r1wYBW6cm9eYqGAN-t6fXV-kD0lSyw1lO3kenC1We71fZjSryvFII",
-  "appName": "The Great Postman",
-  "appDescription": "Best REST API Client for Android",
-  "url": "https://play.google.com/store/apps/details?id=p32929.greatpostman",
-  "type": "Banner"
+  "appIcon": "https://lh3.googleusercontent.com/7p0QQlN7vmjaJhz2r-seNe253jJxmH_dpzU_OWMy9EPyVqot9yyDvecF-9zF8B2k9MU",
+  "appName": "Just ಕನ್ನಡ Keyboard",
+  "appDescription": "ಜಾಹೀರಾತು ಮುಕ್ತ ಅನುಭವಕ್ಕಾಗಿ ಹಾಗು ಮುಂದಿನ ಬೆಳವಣಿಗೆಗಳನ್ನು ಬೆಂಬಲಿಸಲು ಗೂಗಲ್ ಪ್ಲೇ ಸ್ಟೋರ್ ಚಂದಾದರರಾಗಿ",
+  "url": "https://play.google.com/store/apps/details?id=com.sriandroid.justkannada",
+  "type": "app.banner.text"
  }
 ]
