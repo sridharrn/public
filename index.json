@@ -4,27 +4,27 @@
   "appName": "Sleepy - Phone Addiction Controller",
   "appDescription": "The smartest app to reduce phone addiction",
   "url": "https://play.google.com/store/apps/details?id=p32929.lazyphone",
-  "type":"Banner"
+  "type": "Banner"
  },
  {
   "appIcon": "https://lh3.googleusercontent.com/EPW9ERgwRYA47SsgLCiA0vF7irRoPIhS0tA3JdIrgQ5-xmaqVBJKt69-jLW1JAtgD6w",
   "appName": "Best CGPA Calculator",
   "appDescription": "Best CGPA Calculator app for Android",
   "url": "https://play.google.com/store/apps/details?id=p32929.cgpa_calculator2",
-  "type":"Banner"
+  "type": "Banner"
  },
  {
   "appIcon": "https://lh3.googleusercontent.com/ILrto9KguXlr-clbhYKUonpnHszgNp_N5Qvc8_u9QaM71oaqNKcYql2sV3sqZ7nqzsc",
   "appName": "Desplash",
   "appDescription": "Beautiful automatic wallpapers from Unsplash",
   "url": "https://play.google.com/store/apps/details?id=p32929.desplash",
-  "type":"Banner"
+  "type": "Banner"
  },
  {
   "appIcon": "https://lh3.googleusercontent.com/ni-lk3b2nTMZyC7r1wYBW6cm9eYqGAN-t6fXV-kD0lSyw1lO3kenC1We71fZjSryvFII",
   "appName": "The Great Postman",
   "appDescription": "Best REST API Client for Android",
   "url": "https://play.google.com/store/apps/details?id=p32929.greatpostman",
-  "type":"Banner"
+  "type": "Banner"
  }
 ]
