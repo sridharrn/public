@@ -19,5 +19,12 @@
   "appDescription": "ಜಸ್ಟ್ ಕನ್ನಡ ಕೀಲಿಮಣೆ ಈಗ ಆಪಲ್ ಐಒಎಸ್ ನಲ್ಲಿಯೂ ಲಭ್ಯ",
   "url": "none",
   "type": "msg_text_banner"
+ },
+ {
+  "appIcon": "https://raw.githubusercontent.com/sridharrn/public/master/kapata.png",
+  "appName": "Just ಕನ್ನಡ Keyboard",
+  "appDescription": "ಜಸ್ಟ್ ಕನ್ನಡ ಕೀಲಿಮಣೆ ಈಗ ಆಪಲ್ ಐಒಎಸ್ ನಲ್ಲಿಯೂ ಲಭ್ಯ",
+  "url": "https://in.bookmyshow.com/bengaluru/movies/shivaji-surathkal/ET00124967",
+  "type": "image_text_banner"
  }
 ]
